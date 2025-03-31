@@ -1,2 +1,3 @@
-# Data_Jobs_Salary_Analysis_Project
+# Data_Jobs_Salary_Analysis
+
  Excel project analyzing salary trends in data-related jobs.
