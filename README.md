@@ -1,7 +1,7 @@
 
 #  Data Jobs Excel Analysis
 
-This project uses 2023 job postings to analyze salary trends, job roles, and key skills in the data industry, highlighting my proficiency in Excel.
+This project uses real-world job postings data to analyze salary trends, job roles, and key skills in the data industry, highlighting my proficiency in Excel.
 ---
 
 ##  Highlights
