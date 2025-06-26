@@ -1,18 +1,18 @@
 
-# 📊 Data Jobs Excel Analysis
+#  Data Jobs Excel Analysis
 
 This project uses 2023 job postings to analyze salary trends, job roles, and key skills in the data industry, highlighting my proficiency in Excel.
 ---
 
-## ✨ Highlights
+##  Highlights
 
-- 🔍 Explores how **skills, roles, and location** impact salary
-- 📈 Combines **dashboard visuals** and **deep pivot-based analysis**
-- 🧮 Uses advanced Excel tools: Power Query, Power Pivot, PivotTables, Charts, and DAX
+-  Explores how **skills, roles, and location** impact salary
+-  Combines **dashboard visuals** and **deep pivot-based analysis**
+-  Uses advanced Excel tools: Power Query, Power Pivot, PivotTables, Charts, and DAX
   
 ---
 
-## 📂 Projects Included
+##  Projects Included
 
 ### 1. 📈 Salary Dashboard
 ![image](https://github.com/user-attachments/assets/a01db762-5cf1-4b3c-9d21-786150d0a9c4)
@@ -27,13 +27,13 @@ Analyzes the impact of skills and locations on salary, highlighting key in-deman
 
 ---
 
-## 💡 Why It Matters
+##  Why It Matters
 
 Whether you're a job seeker, career changer, or data enthusiast, this project provides:
 
-- 🎯 Actionable insights for maximizing salary
-- 📚 Real Excel techniques you can reuse
-- 💼 A roadmap to in-demand data skills
+-  Actionable insights for maximizing salary
+-  Real Excel techniques you can reuse
+-  A roadmap to in-demand data skills
   
 ---
 
