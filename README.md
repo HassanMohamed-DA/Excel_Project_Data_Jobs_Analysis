@@ -14,16 +14,18 @@ This project uses real-world job postings data to analyze salary trends, job rol
 
 ##  Projects Included
 
-### 1. 📈 Salary Dashboard
-![image](https://github.com/user-attachments/assets/a01db762-5cf1-4b3c-9d21-786150d0a9c4)
+### 1.  🔬 [Job Skills Analysis](Project_Analysis)
 
-An interactive dashboard showing salary differences across job titles, countries, and work types.  
-
-
-### 2. 🔬 Skills & Salary Deep Analysis
-![Picture2](https://github.com/user-attachments/assets/c5bafb5c-6f4f-4500-be07-1e7dd33ead17)
+![Animation4](https://github.com/user-attachments/assets/6cebf011-0f89-4c60-bbde-732014485fdd)
 
 Analyzes the impact of skills and locations on salary, highlighting key in-demand skills like **Python**, **SQL**, and **Cloud**.
+
+
+### 2. 📈 [Salary_Dashboard](Salary_Dashboard)
+
+![Animation3](https://github.com/user-attachments/assets/837d3075-3e33-4315-9ec3-68fdfcc2e8d6)
+
+An interactive dashboard showing salary differences across job titles, countries, and work types. 
 
 ---
 
