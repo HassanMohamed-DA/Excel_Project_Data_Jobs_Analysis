@@ -164,7 +164,9 @@ Cloud platforms like AWS and Azure are also becoming increasingly common in job 
 
 ---
 
-## PivotChart
+## 4️⃣ What’s the pay of the top 10 skills?
+
+## Skill Highlight: PivotChart
 
 I created a combination PivotChart to visualize both the median salary and the likelihood of specific skills appearing in job postings.  
 - The **primary axis** displays median salary using clustered columns.  
