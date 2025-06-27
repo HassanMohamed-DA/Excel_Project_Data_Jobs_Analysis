@@ -1,5 +1,6 @@
 # Job Skills Analysis
 
+![Animation4](https://github.com/user-attachments/assets/6cebf011-0f89-4c60-bbde-732014485fdd)
 
 ##  Introduction
 
@@ -183,7 +184,7 @@ On the other hand, skills like PowerPoint and Word show the lowest median salari
 
 **This chart highlights the importance of focusing on high-value skills like Python and SQL, which are clearly connected to higher-paying opportunities—especially for those aiming to increase their earning potential in the tech industry.**
 
-![Animation4](https://github.com/user-attachments/assets/40241eb1-8bff-4bb3-acb5-02fcf52f0acb)
+![image](https://github.com/user-attachments/assets/e83db270-05c0-44e7-bae0-33f4bc237955)
 
 ---
 ## 📌 Conclusion
