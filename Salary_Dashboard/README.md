@@ -7,7 +7,7 @@ The dataset contains real-world, detailed information on job titles, salaries, l
 ---
 
 ## 📊 Dashboard File
-My final dashboard is in [Salary_Dashboard](Salary_Dashboard/Dashboard.xlsx)
+My final dashboard is in [Salary_Dashboard](Salary_Dashboard/Salary_Dashboard.xlsx)
 
 ---
 
