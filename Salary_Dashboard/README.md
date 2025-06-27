@@ -1,5 +1,5 @@
 #  Salary Dashboard
-![1_Salary_Dashboard_Final_Dashboard (2)](https://github.com/user-attachments/assets/cd7babf9-28f7-4d21-9ecf-de9c4a76c7d5)
+![Animation3](https://github.com/user-attachments/assets/837d3075-3e33-4315-9ec3-68fdfcc2e8d6)
 
 ##  Introduction
 This **Data Jobs Salary Dashboard** helps job seekers investigate salaries for their desired roles and ensure they are being adequately compensated.  
@@ -86,6 +86,6 @@ IF(
 ---
 
 ## 📝Conclusion
-This dashboard was developed to present insights into salary trends across a range of data-related job titles.The dashboard highlights how factors like location and job type impact salary levels, helping users make informed career decisions.
+This dashboard was developed to present insights into salary trends across a range of data-related job titles.The dashboard highlights how factors like location, skills and job type impact salary levels, helping users make informed career decisions.
 
 Feel free to navigate through the dashboard file to explore all the details, features, and Excel skills applied throughout the project. <3
