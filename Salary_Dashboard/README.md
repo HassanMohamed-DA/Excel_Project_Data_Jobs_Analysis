@@ -17,6 +17,15 @@ The project also reflects my Excel skills in action.
 - 🧱Dashboard design for clarity and usability
 ---
 
+To guide the creation of the dashboard, I focused on the following key questions:
+
+- Which data-related job titles offer the highest median salaries?  
+- What is the salary gap between junior and senior data positions?  
+- Which countries offer the most competitive salaries for data professionals?  
+- How do full-time, part-time, and contract roles compare in salary trends?
+
+---
+
 
 ##  Dashboard File
 My final dashboard is in [Salary_Dashboard](Salary_Dashboard.xlsx)
@@ -85,7 +94,7 @@ IF(
 
 ---
 
-## 📝Conclusion
+## 📌Conclusion
 This dashboard was developed to present insights into salary trends across a range of data-related job titles.The dashboard highlights how factors like location, skills and job type impact salary levels, helping users make informed career decisions.
 
 Feel free to navigate through the dashboard file to explore all the details, features, and Excel skills applied throughout the project. <3
