@@ -4,7 +4,7 @@
 This project uses real-world job postings data to analyze salary trends, job roles, and key skills in the data industry, demonstrating my proficiency in Excel.
 ---
 
-##  Highlights
+##  Objectives
 
 -  Explores how **skills, roles, and location** impact salary
 -  Combines **dashboard visuals** and **deep pivot-based analysis**
