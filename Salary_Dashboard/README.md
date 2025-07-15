@@ -4,20 +4,25 @@
 ##  Introduction
 This **Data Jobs Salary Dashboard** helps job seekers investigate salaries for their desired roles and ensure they are being adequately compensated.  
 
-The dataset includes real-world, detailed information on job titles, salaries, locations, and essential skills — all presented visually and interactively in the dashboard. It provides a strong foundation for analysis using Excel 
+**The dataset includes real-world, detailed information on job titles, salaries, locations, and essential skills — all presented visually and interactively in the dashboard. It provides a strong foundation for analysis using Excel** 
 
 The project also reflects my Excel skills in action. 
+---
+### 🛠️ **Excel Skills Demonstrated**
 
-🛠️Skills Demonstrated
-
-- 🧮Advanced Excel formulas and functions  
-- 📊Pivot tables and data validation  
-- 🎨Conditional formatting and dynamic charts  
-- 🧹Data cleaning, sorting, filtering, and structuring  
-- 🧱Dashboard design for clarity and usability
+- **Advanced Excel formulas and functions**
+  
+- **Pivot tables and data validation**
+ 
+- **Conditional formatting and dynamic charts**
+ 
+- **Data cleaning, sorting, filtering, and structuring**
+ 
+- **Dashboard design for clarity and usability**
+ 
 ---
 
-To guide the creation of the dashboard, I focused on the following key questions:
+#### To guide the creation of the dashboard, I focused on the following key questions:
 
 - Which data-related job titles offer the highest median salaries?  
 - What is the salary gap between junior and senior data positions?  
