@@ -4,7 +4,7 @@
 
 ##  Introduction
 
-This Excel-based analysis explores how technical skills shape compensation in the data science field. It reveals strong correlations between multiple skills and higher salaries—particularly among professionals skilled in **Python**, **SQL**, and **cloud technologies** like **AWS** and **TensorFlow**. Using advanced Excel tools, the project breaks down salary trends across job titles and highlights which skills truly make a difference.
+This Excel-based analysis explores how technical skills shape compensation in the data science field. It reveals strong correlations between multiple skills and higher salaries, particularly among professionals skilled in **Python**, **SQL**, and **cloud technologies** like **AWS** and **TensorFlow**. Using advanced Excel tools, the project breaks down salary trends across job titles and highlights which skills truly make a difference.
 
 The dataset includes real-world, detailed information on job titles, salaries, locations, and essential skills.
 
@@ -25,11 +25,11 @@ The project also reflects my Excel skills in action.
   
 ### 🛠️ Skills demonstrated
 
-- 📊 **Pivot Tables** – for dynamic data summarization  
-- 📈 **Pivot Charts** – to visualize salary trends and patterns  
-- 🔍 **Power Query** – for efficient data cleaning and transformation  
-- 🧠 **Power Pivot** – to build and manage complex data models  
-- 🧮 **DAX (Data Analysis Expressions)** – for creating calculated fields and measures
+-  **Pivot Tables** – for dynamic data summarization  
+-  **Pivot Charts** – to visualize salary trends and patterns  
+-  **Power Query** – for efficient data cleaning and transformation  
+-  **Power Pivot** – to build and manage complex data models  
+-  **DAX (Data Analysis Expressions)** – for creating calculated fields and measures
  ---
 
 
@@ -82,7 +82,7 @@ Using **Power Query**, I imported the dataset and created two queries:
 
 ### 💡Insights
 
-Jobs that list more required skills tend to offer higher salaries — especially in roles like Senior Data Engineer and Data Scientist.
+Jobs that list more required skills tend to offer higher salaries, especially in roles like Senior Data Engineer and Data Scientist.
 
 On the other hand, positions that ask for fewer skills, such as Business Analyst, usually come with lower pay. This suggests that specialized skill sets are valued more in the job market.
 
@@ -135,7 +135,7 @@ The salary gap between U.S. and non-U.S. roles is especially noticeable in high-
 
 ### Power Pivot
 
-To support deeper analysis, I used Power Pivot to create a data model by combining the `data_jobs_all` and `data_jobs_skills` tables. Since the data had already been cleaned using Power Query, Power Pivot was able to automatically establish a relationship between the two tables.
+To support deeper analysis, I used Power Pivot to create a data model by combining the `data_jobs_all` and `data_jobs_skills` tables. Since the data had already been cleaned using Power Query, Power Pivot was able to establish a relationship between the two tables automatically.
 
 ---
 
