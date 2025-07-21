@@ -37,11 +37,4 @@ Whether you're a job seeker, career changer, or data enthusiast, this project pr
 -  Real Excel techniques you can reuse
 -  A roadmap to in-demand data skills
   
----
-
-📌 Key Insights:
-- Skills like **Python**, **SQL**, and **Cloud platforms (AWS, Azure)** are tied to the highest pay
-- U.S. roles offer the highest median salaries
-- Business Analyst roles offer less pay due to fewer skill requirements
-
 
